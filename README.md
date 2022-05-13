@@ -4,6 +4,6 @@ Repository untuk gambar di website utama.
 
 ## Info Lebih Lanjut
 
-JASA FREELANCE:
+WEBSITE:
 
 - https://shbfrlnc.github.io
